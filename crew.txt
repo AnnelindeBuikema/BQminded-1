@@ -1,9 +1,10 @@
-Capitain: 
-Cook: 
-Pilot: 
-Cleaner: 
+Capitain: Maira
+Cook: Roberto
+Pilot: Annelinde
+Cleaner: Emmanuel
 Guests:
- - 
- - 
+ - Marco
+ - Banafshe
+ - Vinchenzo
  - ...
 
